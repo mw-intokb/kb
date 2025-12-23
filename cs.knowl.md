@@ -16,3 +16,19 @@ i have didn't understood what is logick i  comp transistors
 how doest it comes in why 0 and 1 is basically computer league 
 why it is 1 and 2 why not more or less or another numbers
 ll figure out it tomorrow
+
+
+alright 
+i ve got a conversation with ai also watched some videos and what do i can say
+i can say that cs is not just about our security in internet its much more deeper
+so today i have understood that its about computer, internet, web 
+and i have started with learning things about computers
+first question that i ve got what is that how does that work
+
+what did i found out:
+computer isn't just an machine, there are many things that happening at the same moment inside
+i ve asked myself, but how does that work, how computer can understand me and actually work
+so it s starting with physics, idk what is happening there so really good but can describe it as diffusion with electric 
+this electric go into many half transistors
+what is transistor? so it's an technology that  describe os there any electric or not
+out of this point comes 1-0 langue 
