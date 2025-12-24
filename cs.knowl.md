@@ -30,5 +30,26 @@ computer isn't just an machine, there are many things that happening at the same
 i ve asked myself, but how does that work, how computer can understand me and actually work
 so it s starting with physics, idk what is happening there so really good but can describe it as diffusion with electric 
 this electric go into many half transistors
-what is transistor? so it's an technology that  describe os there any electric or not
-out of this point comes 1-0 langue 
+what is transistor? so it's an technology that  describe os there any electricity or not
+out of this point comes 1-0 computer language
+so there is a rule if there is electricity then it's = 1 if not then = 0
+it is basically the way how this 1-0 language was released 
+but question how can computer working only with this one half transistor
+answer is there much more than one, so at the beginning there are only 2 or 5 half transistors 
+they build one transistor, but how and why they can't do it solo
+now comes logick, not like humans logick i could describe it as rules in transistors 
+so because our computers have pretty much work they need more than 1-2 numbers 
+and everyone function has a number, so it s mean that logick has to build of this
+1 or 0 and any transistors an number that has function 
+in logick we have  basically 3 opportunities/commands and they are ORDER OR AND
+with this commands and our number that come out of transistors we can get our function 
+
+now i think about this 1-0 language, do i need it or not cause i guess it is pretty interesting 
+but if it is will be useless, idk ll see.
+ at the point im very happy, because before i have heard much about this 1-0 language but have didn't got where is that form and why its so
+
+ *important*
+ 1-0 language is bullshit 1 and 0 was made only for our understanding 
+ so it is not the computer language 
+
+ 
