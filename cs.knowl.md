@@ -51,5 +51,18 @@ but if it is will be useless, idk ll see.
  *important*
  1-0 language is bullshit 1 and 0 was made only for our understanding 
  so it is not the computer language 
+today I have learned how does  work memory i  our computers 
+so first of all you need to understand what is exactly transistors and logick 
+also come new information about the lines, schemes and what is that 
+lines are basically the physical way to import our electricity to the memory 
+and scheme are ways to interpret our transistor
+but why and for what do we need it
+answer is : in memory we have many cells that have theirs numbers and function in there
+to go to this cell we need bit, bit is nothing more than our numbers
+now to the thing why do we need to interpret this numbers 
+because cells have 2 meanings of bit first one is call number  and second one is function number 
+and so build memory themselve 
 
- 
+at the point i do have some questions like where are this numbers/functions form
+i mean how did they build, what are rules, but rest was probably clear without any questions 
+tomorrow i want to go a bit deeper in memory, be i guess it s not everything what i can learn from there
