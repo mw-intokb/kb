@@ -66,3 +66,17 @@ and so build memory themselve
 at the point i do have some questions like where are this numbers/functions form
 i mean how did they build, what are rules, but rest was probably clear without any questions 
 tomorrow i want to go a bit deeper in memory, be i guess it s not everything what i can learn from there
+
+today i go straight to the point it is so as o has expected it there was few things more i wanted make any brain work so 
+it s the reason why my writing today ll be my best ever 
+
+There are many cells, and they all exist all the time.
+Memory is not a single active cell,
+but the entire system of cells together with the wires and logic
+that allow one specific cell to be selected and used.
+The selection logic is not something separate from the transistors themselves —
+it’s the same transistors, just used to control access
+rather than to perform calculations.
+so before i ve didn't understood, how memory is interpret and this thing with lines was clear but i have didn't got tajt solo
+
+alright ll write in 2 days, ll get more information topics cause i guess, needed to know first computer working abd only after that everything what happens there insi 
