@@ -80,3 +80,15 @@ rather than to perform calculations.
 so before i ve didn't understood, how memory is interpret and this thing with lines was clear but i have didn't got tajt solo
 
 alright ll write in 2 days, ll get more information topics cause i guess, needed to know first computer working abd only after that everything what happens there insi 
+
+today i have got an question so do i can find or talk about any bugs at my point?
+what did i found out is
+that with this all knowledge that i have about computer i can give an important interpret and understand how it goes(bugs)
+so now to the thing in our computer and actually computer is always right it doesn't make any mistakes but can happen that there ll be unexpected situation with it i mean that our transistor and logick can build this situation 
+to talk about that more exact i have to know much more information about bits cells and much much more but
+i have understood that principle and that our computer and actually all systems are not wrong there can be hust unexpected situation so that computer can't do anything with it
+
+
+it was pretty nice to understand maybe it is not so deep but as i have said i need more knowledge for this
+so to talk about that exact i need to learn more , but principle is clear now and im happy with it 
+
