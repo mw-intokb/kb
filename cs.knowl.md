@@ -92,3 +92,17 @@ i have understood that principle and that our computer and actually all systems 
 it was pretty nice to understand maybe it is not so deep but as i have said i need more knowledge for this
 so to talk about that exact i need to learn more , but principle is clear now and im happy with it 
 
+as next one is ram/bios 
+they are basically instruction and nothing more 
+when we make our pc on our processor, actually i have wrote about it here but can't find, not bad ll tell it before i ll start with ram/bios
+our processor is nothing more than reading/going to the next one cell
+how do we get our first one cell? -ram/bios its instruction that gives "basically setup" for our  programm counter
+programm counter is like an delivery it's has an address of cell and it gives that to the processor 
+processor is also an logick and nothing more. after calling our first address (cell) that has given us ram/bios it s 
+getting instruction, how does that need to work
+and it is always our first one address, after can come "address+1" or +2 whatever, cause we don't know what is in instruction.
+
+have nothing to say because now i guess i can understand it without learning anymore
+pc is typical, so if you know base, you can understand it without learning but ! understand!
+so i need so learn a bit to know it and not just understand
+
