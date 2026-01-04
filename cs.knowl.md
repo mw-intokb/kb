@@ -106,3 +106,14 @@ have nothing to say because now i guess i can understand it without learning any
 pc is typical, so if you know base, you can understand it without learning but ! understand!
 so i need so learn a bit to know it and not just understand
 
+today a have understood how computer actually work
+bur before i want to tald a little bit what i have learned 
+0/1 - electricity that comes truth transistors; after that we have memory- cells that have address and something what hides inside; processor machine that can interpret what is in cells and get thruth programm counter next one adress;in processor hide cache probably the fastest memory that is in computer we need that to do something little and fast, they also predict next move in pc; bios - are commands that ll be interpret by processor at every computer on;
+that ye all is connected with buses; buses are like bus line in a town sp they have theirs way and everyone has  also cash something to send(adress/data/...); those cannot connect to the mouse or keyboard those are conjugated with controllers; video card is a processor but for computer screen; on computer screen are millions of pixels and video card interpret information that comes through bus of processor and "put it on screen" 
+and at to the and drivers are only programms that can understand what commands gives to computer (processor controller)
+
+that s it i guess for the beginning i need nt know anything more about computer cause basically i understand that.
+
+
+
+
