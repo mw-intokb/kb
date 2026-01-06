@@ -116,4 +116,15 @@ that s it i guess for the beginning i need nt know anything more about computer 
 
 
 
+well i m done with basically information about computer and next one whatndo i know about is internet 
+probably how does it work how we send it how it comes 
+of course i have chatted with ai before start to learn internet and yeah i didn't miss something in about computer
+and i wanna sorry for me to me because i m too lazy today to write it solo so that did ai for me
+The Internet is not a cloud or an abstract space.
+It is a system for transmitting data between specific computers.
+Every computer connected to the network has an IP address.
+When I visit a website or send data, my computer sends information to a specific server’s IP address.
+and yes information that we send to internet ll understood by router as 1/0 language 
+so it s the important thing that i have learned today 
+i feel like it s ll be much more bigger than computer, but who knows ll see how it's going 
 
