@@ -128,3 +128,13 @@ and yes information that we send to internet ll understood by router as 1/0 lang
 so it s the important thing that i have learned today 
 i feel like it s ll be much more bigger than computer, but who knows ll see how it's going 
 
+today i want to be more precise and so how probably work.the way of our packets delviverie in internet 
+yesterday i have understood that its simple i mean we have packet on our computer and there is information doesn't matter what is that so it s ll be sender into internet thruth our controllers on computer 
+information ll be sent in form 1/0 language(where 1/0 is state of electricity)
+it s ll be sent to the router, router has an ip address but not anymore as our computer local it s ll be public ip
+after that our packet ll be senr to the server of idk whatever through cables 
+at the server that all ll be checked by firewall and after that server ll take it in
+and in a case if it is about chatting than server ll sent it to another person as we did it
+so to the router through cables and after that router ll sent it on device 
+
+so the point here is that probably what are we doing in internet talking/sent information to the server and after that server know what do it need to do with our packet. let it there our sent it to the next one user
